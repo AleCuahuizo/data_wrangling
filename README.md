@@ -10,19 +10,19 @@ Instacart es una plataforma de entregas de comestibles donde la clientela puede 
 ### **Datasets utilizados**
 
 - <b>Pedidos en la aplicación</b>: Cada fila corresponde a un pedido en la aplicación Instacart. 
-([instacart_orders]()) 
+([instacart_orders](https://github.com/AleCuahuizo/data_wrangling/blob/main/instacart_orders.csv)) 
 
 - <b>Productos</b>: Cada fila corresponde a un producto único que pueden comprar los clientes.
-([products]()) 
+([products](https://github.com/AleCuahuizo/data_wrangling/blob/main/products.csv)) 
 
 - <b>Artículos</b>: Cada fila corresponde a un artículo pedido en un pedido..
-([order_products]()) 
+([order_products](https://github.com/AleCuahuizo/data_wrangling/blob/main/order_products.csv)) 
 
 - <b>Categoría</b>: Categoría de pasillo de víveres.
-([aisles]()) 
+([aisles](https://github.com/AleCuahuizo/data_wrangling/blob/main/aisles.csv)) 
 
 - <b>Departamento</b>: Departamento de víveres.
-([departments]()) 
+([departments](https://github.com/AleCuahuizo/data_wrangling/blob/main/departments.csv)) 
 
 
 
